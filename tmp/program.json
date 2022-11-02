@@ -1,0 +1,10 @@
+{
+    "program": "tmp.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp8EJQNbGXWpDvu8Dk4fUVsSFs4GHjhQNWQYUcTVXe9iur",
+        "address": "aleo10q9sw9y0etpeswslmt9qypp2dtt8rms0x42shkwrtssquxs8pufqyyupus"
+    },
+    "license": "MIT"
+}
